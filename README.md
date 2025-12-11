@@ -242,14 +242,17 @@ MERDIAN HOSPITAL .HTML
 
 <img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/19247e3a-21fc-4d93-92fd-a4bfe89a2aa7" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b0203a0-6c2d-4661-9a55-f4139d3ca5e6" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe0e1b04-88b8-47c6-bb03-74788e39a6fd" />
+<img width="1261" height="625" alt="image" src="https://github.com/user-attachments/assets/26c2bab5-e676-479e-9c84-d47244bf7073" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce04b6ce-dd86-478f-95e8-d196e6a5bed1" />
+<img width="1262" height="632" alt="image" src="https://github.com/user-attachments/assets/f7b530fb-d992-4441-91b3-456d0d940ce6" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31d1d58b-ee32-4c18-be2c-37f7e5d5f0fa" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e683814-dfc5-4a84-8b8a-8f5ea05e7459" />
+<img width="1261" height="580" alt="image" src="https://github.com/user-attachments/assets/46588c1d-8aa9-40e4-a18c-de5af3f6330e" />
+
+<img width="1266" height="603" alt="image" src="https://github.com/user-attachments/assets/7f8d5095-c6c6-4877-9da3-f672c80e002b" />
+
+<img width="1920" height="980" alt="yq3mrjil" src="https://github.com/user-attachments/assets/90f14d3c-193c-460c-9051-2f047468d0aa" />
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
